@@ -1,0 +1,10 @@
+OPENAI_API_KEY = "sk-proj-XXXXX"
+
+
+WORDPRESS_URL = "http://data-tools.local/"
+WORDPRESS_USER = "admin"
+WORDPRESS_APP_PASSWORD = "AaM7XXXXXX"
+
+
+RAPIDAPI_API_KEY = "99d7XXXX"
+

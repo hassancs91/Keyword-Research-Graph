@@ -1,8 +1,7 @@
+SimplerLLM==0.2.6
 networkx==3.3
-pydantic==2.8.2
 python-dotenv==1.0.1
 pyvis==0.3.2
 Requests==2.32.3
-SimplerLLM==0.2.6
 streamlit==1.36.0
 streamlit_agraph==0.0.45
